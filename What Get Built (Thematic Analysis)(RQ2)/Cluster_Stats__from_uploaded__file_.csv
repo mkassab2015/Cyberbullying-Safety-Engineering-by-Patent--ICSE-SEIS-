@@ -1,0 +1,9 @@
+,Cluster,Name,Count,Percentage,95% CI Lower,95% CI Upper
+0,1,Detection & Classification,139,75.14,68.44,80.81
+1,2,Risk Assessment & Profiling,41,22.16,16.78,28.68
+2,3,Content Moderation & Filtering,34,18.38,13.46,24.58
+3,4,Response & Intervention,56,30.27,24.11,37.24
+4,5,User Behavior Monitoring,39,21.08,15.82,27.52
+5,6,Reporting & Evidence,15,8.11,4.97,12.95
+6,7,Privacy & Ethics,4,2.16,0.84,5.43
+7,8,Multi-Modal/Context-Aware,46,24.86,19.19,31.56

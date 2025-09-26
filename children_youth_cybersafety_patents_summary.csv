@@ -1,0 +1,19 @@
+ID,Patent Title,Summary
+1,Parental Monitoring System,"Monitors children's smartphones, analyzes apps, and detects harmful content for parental review."
+2,Parental Monitoring System (Duplicate),Same as above.
+3,Metaverse Therapy for Children with Disabilities,AI-driven metaverse platform providing therapy based on user mental state.
+4,AI Classroom with Safety Features,Virtual classroom that monitors hate speech and student performance using AI.
+5,Security via Reaction Monitoring,Compares child’s reactions to expected behavior and triggers security actions.
+6,Sentiment-Based Message Filtering,"Intercepts messages, analyzes sentiment with ML, and blocks harmful ones."
+7,Multi-Modal Cyberbullying Detector,"Uses unsupervised ML to detect bullying from text, timing, and network data."
+8,Text & Image Threat Detection,"Detects bullying, grooming, or identity threats using text/image analysis."
+9,ML for Cyberbullying Detection,Uses classifiers like SVM to detect cyberbullying on digital platforms.
+10,Device-Based Bullying Identifier,Analyzes user device content to detect bullying; anonymized reporting.
+11,Human ‘Nanny’ Surveillance System,Human operators monitor child activity screens in optimized time windows.
+12,AI + Blockchain for Cyberbullying,AI identifies bullying themes and logs events to blockchain.
+13,Multilingual Message Filter with Suggestions,Detects harmful messages and suggests alternatives; grades sender.
+14,Risk Scoring for Outgoing Messages,Scores message risk and recommends safe alternatives based on policy.
+15,Semantic Detection + Blockchain Logging,Semantic analysis of content; logs toxic behavior to blockchain.
+16,Smart Device-Based Psychological Feedback,Smart devices detect and correct cyberbullying-related distress.
+17,Bi-RNN Based Text Classifier,Uses attention-based RNN to detect bullying in text with high accuracy.
+18,Conversation Restriction for Safety,Limits social media comments to two-user exchanges to reduce bullying.
